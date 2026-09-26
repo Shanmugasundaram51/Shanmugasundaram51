@@ -46,7 +46,7 @@ Languages
 <p> <img src="https://skillicons.dev/icons?i=java,cpp,python,c,cs,js" /> </p>
 Backend
 <p> <img src="https://skillicons.dev/icons?i=spring,nodejs" /> </p>
-Spring Boot • Microservices • REST APIs • JUnit
+
 
 Frontend
 <p> <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react" /> </p>
@@ -54,7 +54,7 @@ Databases & Cloud
 <p> <img src="https://skillicons.dev/icons?i=mysql,mongodb,azure,aws" /> </p>
 DevOps & Tools
 <p> <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,github" /> </p>
-CI/CD • TeamCity • Jira • Confluence • Datadog
+
 AI / Data
 Python • NLP • Pandas • Matplotlib • Seaborn
 
