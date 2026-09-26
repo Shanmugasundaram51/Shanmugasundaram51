@@ -42,33 +42,18 @@ reliability and automating engineering workflows.
 
 ---
 🛠️ Tech Stack
-Languages
+<h3>Languages</h3>
 <p> <img src="https://skillicons.dev/icons?i=java,cpp,python,c,cs,js" /> </p>
-Backend
+<h3>Backend</h3>
 <p> <img src="https://skillicons.dev/icons?i=spring,nodejs" /> </p>
 
 
-Frontend
+<h3>Frontend</h3>
 <p> <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react" /> </p>
-Databases & Cloud
+<h3>Databases & Cloud</h3>
 <p> <img src="https://skillicons.dev/icons?i=mysql,mongodb,azure,aws" /> </p>
-DevOps & Tools
+<h3>DevOps & Tools</h3>
 <p> <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,github" /> </p>
-
-
-<h3>AI / Data</h3>
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-       width="80" height="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
-       width="80" height="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
-       width="80" height="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"
-       width="80" height="80" />
-</p>
-
 
 
 🚀 Featured Projects
@@ -114,11 +99,6 @@ Madras Institute of Technology — Anna University
 🎓 B.Tech — Information Technology
 📅 2021 — 2025
 📊 CGPA: 8.7
-
-Relevant areas:
-
-Data Structures Algorithms Databases Operating Systems
-Artificial Intelligence Computer Networks
 
 🏆 Recognition & Certifications
 🏅 TIH-IoT Chanakya Research Fellowship — IIT Bombay
