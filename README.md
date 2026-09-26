@@ -1,16 +1,128 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Shanmugasundaram51/Shanmugasundaram51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Shanmugasundaram G 👋
 
-Here are some ideas to get you started:
+### Software Engineer • Backend • Cloud • Distributed Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building scalable, reliable software and turning complex problems
+into simple, maintainable solutions.
+
+<p>
+  <a href="https://shanmugasundaram51.github.io/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-181717?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/shanmugasundaram-g-0037a0188/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shanmugasundaram51mit@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Software Engineer at Gen Digital**, focused on building backend
+systems, RESTful APIs and scalable microservices.
+
+I enjoy working at the intersection of **backend engineering, cloud,
+automation and system design** — from designing APIs to improving
+reliability and automating engineering workflows.
+
+- 💼 Software Engineer @ **Gen Digital**
+- 🎓 B.Tech in Information Technology — **Madras Institute of Technology, Anna University**
+- ☁️ Working with **Azure & AWS**
+- ⚙️ Building with **Java, Spring Boot & Microservices**
+- 🤖 Exploring **AI-powered engineering solutions**
+- 🧩 Interested in **System Design & Distributed Systems**
+- 📚 Always learning, experimenting and building
+
+---
+🛠️ Tech Stack
+Languages
+<p> <img src="https://skillicons.dev/icons?i=java,cpp,python,c,cs,js" /> </p>
+Backend
+<p> <img src="https://skillicons.dev/icons?i=spring,nodejs" /> </p>
+Spring Boot • Microservices • REST APIs • JUnit
+
+Frontend
+<p> <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react" /> </p>
+Databases & Cloud
+<p> <img src="https://skillicons.dev/icons?i=mysql,mongodb,azure,aws" /> </p>
+DevOps & Tools
+<p> <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,github" /> </p>
+CI/CD • TeamCity • Jira • Confluence • Datadog
+AI / Data
+Python • NLP • Pandas • Matplotlib • Seaborn
+
+
+🚀 Featured Projects
+🧠 YouTube Emotion Analysis
+An NLP-based emotion classification system analyzing 50,000+ YouTube
+comments across 7 emotion categories.
+
+87% accuracy using k-fold cross-validated ML models, outperforming
+baseline approaches by 12%.
+
+Python NLP Pandas Matplotlib Seaborn
+
+🏆 IIT Bombay TIH-IoT Chanakya Research Fellowship
+
+📄 Published research:
+Enhancing Emotion Recognition in Text with Stacked CNN-BiLSTM
+
+🧪 DNS Load Testing Framework
+A Python-based performance testing framework designed for
+DNS benchmarking and analysis.
+
+Tech:
+Python dnsperf resperf JMeter Grafana
+
+🛒 FreshMart — Grocery Platform
+A full-stack grocery web application featuring:
+
+🛍️ 10+ product categories
+
+🧾 PDF invoice generation
+
+🔐 Session-based authentication
+
+📦 Real-time inventory validation
+
+👤 Role-based customer & admin dashboards
+
+HTML CSS Bootstrap JavaScript jQuery PHP MySQL
+
+🎓 Education
+Madras Institute of Technology — Anna University
+
+🎓 B.Tech — Information Technology
+📅 2021 — 2025
+📊 CGPA: 8.7
+
+Relevant areas:
+
+Data Structures Algorithms Databases Operating Systems
+Artificial Intelligence Computer Networks
+
+🏆 Recognition & Certifications
+🏅 TIH-IoT Chanakya Research Fellowship — IIT Bombay
+
+📄 Published research paper on emotion recognition
+
+☁️ Microsoft Azure Developer Associate
+
+🌐 Cisco Networking Essentials
+
+💡 LeetCode badges
+
+🧠 Currently
+🔨 Building       → Scalable backend systems
+☁️ Exploring      → Cloud & distributed systems
+🤖 Learning       → AI-assisted engineering
+🧩 Improving      → System design & architecture
+📚 Solving        → Data structures & algorithms
+
