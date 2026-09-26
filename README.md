@@ -41,80 +41,119 @@ reliability and automating engineering workflows.
 - 📚 Always learning, experimenting and building
 
 ---
-🛠️ Tech Stack
-<h3>Languages</h3>
-<p> <img src="https://skillicons.dev/icons?i=java,cpp,python,c,cs,js" /> </p>
-<h3>Backend</h3>
-<p> <img src="https://skillicons.dev/icons?i=spring,nodejs" /> </p>
+## 🛠️ Tech Stack
 
+### 💻 Languages
 
-<h3>Frontend</h3>
-<p> <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react" /> </p>
-<h3>Databases & Cloud</h3>
-<p> <img src="https://skillicons.dev/icons?i=mysql,mongodb,azure,aws" /> </p>
-<h3>DevOps & Tools</h3>
-<p> <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,github" /> </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,c,cs,js" />
+</p>
 
+### ⚙️ Backend
 
-🚀 Featured Projects
-🧠 YouTube Emotion Analysis
-An NLP-based emotion classification system analyzing 50,000+ YouTube
-comments across 7 emotion categories.
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs" />
+</p>
 
-87% accuracy using k-fold cross-validated ML models, outperforming
-baseline approaches by 12%.
+### 🎨 Frontend
 
-Python NLP Pandas Matplotlib Seaborn
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react" />
+</p>
 
-🏆 IIT Bombay TIH-IoT Chanakya Research Fellowship
+### ☁️ Databases & Cloud
 
-📄 Published research:
-Enhancing Emotion Recognition in Text with Stacked CNN-BiLSTM
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,azure,aws" />
+</p>
 
-🧪 DNS Load Testing Framework
-A Python-based performance testing framework designed for
-DNS benchmarking and analysis.
+### 🔧 DevOps & Tools
 
-Tech:
-Python dnsperf resperf JMeter Grafana
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,github" />
+</p>
 
-🛒 FreshMart — Grocery Platform
+### 🤖 AI / Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/seaborn" width="48" height="48" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 YouTube Emotion Analysis
+
+An NLP-based emotion classification system analyzing **50,000+ YouTube comments** across **7 emotion categories**.
+
+**87% accuracy** using k-fold cross-validated ML models, outperforming baseline approaches by **12%**.
+
+**Tech Stack:** `Python` `NLP` `Pandas` `Matplotlib` `Seaborn`
+
+🏆 **IIT Bombay TIH-IoT Chanakya Research Fellowship**
+
+📄 **Published Research:**  
+*Enhancing Emotion Recognition in Text with Stacked CNN-BiLSTM*
+
+---
+
+### 🧪 DNS Load Testing Framework
+
+A Python-based performance testing framework designed for DNS benchmarking and analysis.
+
+**Tech Stack:**  
+`Python` `dnsperf` `resperf` `JMeter` `Grafana`
+
+---
+
+### 🛒 FreshMart — Grocery Platform
+
 A full-stack grocery web application featuring:
 
-🛍️ 10+ product categories
+- 🛍️ **10+ product categories**
+- 🧾 **PDF invoice generation**
+- 🔐 **Session-based authentication**
+- 📦 **Real-time inventory validation**
+- 👤 **Role-based customer & admin dashboards**
 
-🧾 PDF invoice generation
+**Tech Stack:**  
+`HTML` `CSS` `Bootstrap` `JavaScript` `jQuery` `PHP` `MySQL`
 
-🔐 Session-based authentication
+---
 
-📦 Real-time inventory validation
+## 🎓 Education
 
-👤 Role-based customer & admin dashboards
+### 🎓 Madras Institute of Technology — Anna University
 
-HTML CSS Bootstrap JavaScript jQuery PHP MySQL
+**B.Tech — Information Technology**
 
-🎓 Education
-Madras Institute of Technology — Anna University
+📅 **2021 — 2025**  
+📊 **CGPA: 8.7**
 
-🎓 B.Tech — Information Technology
-📅 2021 — 2025
-📊 CGPA: 8.7
+---
 
-🏆 Recognition & Certifications
-🏅 TIH-IoT Chanakya Research Fellowship — IIT Bombay
+## 🏆 Recognition & Certifications
 
-📄 Published research paper on emotion recognition
+- 🏅 **TIH-IoT Chanakya Research Fellowship — IIT Bombay**
+- 📄 **Published Research Paper** on emotion recognition
+- ☁️ **Microsoft Azure Developer Associate**
+- 🌐 **Cisco Networking Essentials**
+- 💡 **LeetCode Badges**
 
-☁️ Microsoft Azure Developer Associate
+---
 
-🌐 Cisco Networking Essentials
+## 🧠 Currently
 
-💡 LeetCode badges
-
-🧠 Currently
-🔨 Building       → Scalable backend systems
-☁️ Exploring      → Cloud & distributed systems
-🤖 Learning       → AI-assisted engineering
-🧩 Improving      → System design & architecture
-📚 Solving        → Data structures & algorithms
+| | |
+|---|---|
+| 🔨 **Building** | Scalable backend systems |
+| ☁️ **Exploring** | Cloud & distributed systems |
+| 🤖 **Learning** | AI-assisted engineering |
+| 🧩 **Improving** | System design & architecture |
+| 📚 **Solving** | Data structures & algorithms |
 
