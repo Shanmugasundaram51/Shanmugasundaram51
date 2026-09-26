@@ -55,8 +55,20 @@ Databases & Cloud
 DevOps & Tools
 <p> <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,github" /> </p>
 
-AI / Data
-Python • NLP • Pandas • Matplotlib • Seaborn
+
+<h3>AI / Data</h3>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+       width="80" height="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
+       width="80" height="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
+       width="80" height="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"
+       width="80" height="80" />
+</p>
+
 
 
 🚀 Featured Projects
